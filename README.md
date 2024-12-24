@@ -1,4 +1,9 @@
-This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
+# Petição para criar uma secretaria de juventudes no Pará
+Este foi um projeto a pedido da COJOVEM, uma ONG que trabalha pelos direitos das juventudes no Pará. 
+A proposta era uma página que conseguisse concientizar e propagandear a demanda que seria criar uma secretaria de juventudes dentro do Estado do Pará. 
+
+
+This is a Next.js project bootstrapped with my favorite front end technology [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 
 ## Getting Started
 
